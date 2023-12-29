@@ -8,7 +8,7 @@ import Promo from './components/Promo'
 
 function App() {
   return ( 
-    <div className='font-Inter'>
+    <div className='font-Inter pb-40'>
       <Navbar/>
       <Banner/>
       <Restaurant/>
