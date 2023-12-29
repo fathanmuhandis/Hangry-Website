@@ -10,7 +10,7 @@ const Partner = () => {
     return (
         <div className='flex justify-center py-24'>
             <div className='flex flex-col justify-center'>
-                <p className='font-medium text-[#5A5A5A] text-lg text-center'>Hangry! dapat kamu temukan di</p>
+                <p className='font-medium text-[#5A5A5A] text-xl text-center'>Hangry! dapat kamu temukan di</p>
                 <div className='flex flex-row space-x-36 py-12 '>
                     <img className='' style={grayScaleStyle} src={gofood} alt="GoFood" />
                     <img className='w-40' style={grayScaleStyle} src={grabfood} alt="GrabFood" />

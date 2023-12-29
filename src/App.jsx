@@ -4,6 +4,7 @@ import Navbar from './components/Navbar'
 import Banner from './components/Banner'
 import Restaurant from './components/Restaurant'
 import Partner from './components/Partner'
+import Promo from './components/Promo'
 
 function App() {
   return ( 
@@ -12,6 +13,7 @@ function App() {
       <Banner/>
       <Restaurant/>
       <Partner/>
+      <Promo/>
     </div>
   )
 }
